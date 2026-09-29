@@ -1,14 +1,19 @@
-FASTKIT PACKAGING WEBSITE — GITHUB PAGES SAFE VERSION
+FASTKIT PACKAGING WEBSITE — FINAL GITHUB PAGES VERSION
 
-Upload these three HTML files directly to the ROOT of your GitHub repository:
+Upload ALL files in this folder directly to the ROOT of your GitHub Pages repository.
+
+Required website files:
 - index.html
 - capabilities.html
 - contact.html
+- hero-packaging.png
+- rigid-box.png
+- pr-kit.png
+- retail-packaging.png
+- corporate-kit.png
 
-This version has the CSS and JavaScript embedded directly in each page, so there is no assets folder to miss and no stylesheet path issue on GitHub Pages.
+Contact information included on the website:
+Phone: 645-205-1264
+Email: info@fastkitpckg.com
 
-Contact details included: 645-205-1264 and info@fastkitpckg.com.
-The contact form currently validates and shows a success confirmation but does not transmit data until an email/form endpoint is connected.
-
-
-Updated version includes generated packaging photography in assets/images/. Upload the entire folder contents, including the assets folder, to GitHub Pages.
+Important: Keep the image filenames exactly as they are because the HTML pages reference them directly.
